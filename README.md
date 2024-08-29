@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @andresagudelo-exe
+- 👀 I’m interested in to learn python and SQL
+- 🌱 I’m currently learning Analystic Data
+- 📫 How to reach me fot twitter @ancagudelopo
